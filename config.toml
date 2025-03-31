@@ -1,0 +1,16 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+enableStaticServing = true
+
+[theme]
+primaryColor = "#4361EE"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F8F9FA"
+textColor = "#262730"
+font = "sans serif"
+
+[ui]
+hideTopBar = false
+hideSidebarNav = true 
