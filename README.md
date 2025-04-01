@@ -73,6 +73,7 @@ pip install -r requirements.txt
 - DOCX
 - TXT
 
+**##Demo Video Link** : https://img.youtube.com/vi/2uoh_mxyrp4/0.jpg)](https://youtu.be/2uoh_mxyrp4 
 ## Troubleshooting
 
 - **Missing Dependencies**: The application will attempt to install required dependencies automatically. If you encounter any issues, try installing them manually using `pip install -r requirements.txt`
